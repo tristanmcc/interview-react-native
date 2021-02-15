@@ -1,7 +1,7 @@
 # LabelCaster Interview Test App
 
 ## Setup
-This project was bootstrapped with Create React Native App.
+This project was bootstrapped with Expo.
 Below you'll find information about performing common tasks. The most recent version of this guide is available here.
 
 
